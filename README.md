@@ -14,10 +14,20 @@
 * Time Series Prediction
   
   * [x] Modeling Long- and Short-Term Temporal Patterns with Deep Neural Networks [(SIGIR 2018)](Modeling Long- and Short-Term Temporal Patterns with Deep Neural Networks)
+  - [x] Deep Multi-View Spatial-Temporal Network for Taxi Demand Prediction [(AAAI 2018)]([https://arxiv.org/pdf/1802.08714.pdf](https://arxiv.org/pdf/1802.08714.pdf)
+
+* Finacial & Stocks
+  
+  - [ ] Knowledge-Driven Stock Trend Prediction and Explanation via Temporal Convolutional Network [(WWW 2019)]([https://www.researchgate.net/publication/331545500_Knowledge-Driven_Stock_Trend_Prediction_and_Explanation_via_Temporal_Convolutional_Network](https://www.researchgate.net/publication/331545500_Knowledge-Driven_Stock_Trend_Prediction_and_Explanation_via_Temporal_Convolutional_Network)
 
 * General Methods
   
-  - [ ] Highway Network [(ICML 2015)]([https://arxiv.org/pdf/1505.00387.pdf](https://arxiv.org/pdf/1505.00387.pdf))
+  - [x] Highway Network [(ICML 2015)]([https://arxiv.org/pdf/1505.00387.pdf](https://arxiv.org/pdf/1505.00387.pdf))
+  - [ ] (TCN) An Empirical Evalutaion of Generic Convolutional and Recurrent Netwokrs of Sequence Modeling [(arxiv)]([https://arxiv.org/pdf/1803.01271.pdf](https://arxiv.org/pdf/1803.01271.pdf))
+
+* Others
+  
+  - [x] Cardiologist-Level Arrhythmia Detection with Convolutional Neural Networks [(arxiv)]([https://arxiv.org/pdf/1707.01836.pdf](https://arxiv.org/pdf/1707.01836.pdf)
 
 ## Codes
 

@@ -18,13 +18,16 @@
 
 * Finacial & Stocks
   
-  - [ ] Knowledge-Driven Stock Trend Prediction and Explanation via Temporal Convolutional Network ([WWW 2019](https://www.researchgate.net/publication/331545500_Knowledge-Driven_Stock_Trend_Prediction_and_Explanation_via_Temporal_Convolutional_Network))
+  - [x] Knowledge-Driven Stock Trend Prediction and Explanation via Temporal Convolutional Network ([WWW 2019](https://www.researchgate.net/publication/331545500_Knowledge-Driven_Stock_Trend_Prediction_and_Explanation_via_Temporal_Convolutional_Network))
 
 * General Methods
   
   - [x] Highway Network ([ICML 2015](https://arxiv.org/pdf/1505.00387.pdf))
-  - [ ] (TCN) An Empirical Evalutaion of Generic Convolutional and Recurrent Netwokrs of Sequence Modeling ([arxiv](https://arxiv.org/pdf/1803.01271.pdf))
-
+  - [x] (TCN) An Empirical Evalutaion of Generic Convolutional and Recurrent Netwokrs of Sequence Modeling ([arxiv](https://arxiv.org/pdf/1803.01271.pdf))
+  - [ ] Fully convolutional networks for semantic segmentation ([CVPR 2015](<https://people.eecs.berkeley.edu/~jonlong/long_shelhamer_fcn.pdf>))
+  - [ ] (FCN) Convolutional LSTM network: A machine learning approach for precipitation nowcasting ([NIPS 2015](<https://papers.nips.cc/paper/5955-convolutional-lstm-network-a-machine-learning-approach-for-precipitation-nowcasting.pdf>))
+  - [ ] Quasi-recurrent neural networks ([ICLR 2017](<https://arxiv.org/pdf/1611.01576.pdf>))
+  - [ ] Dilated recurrent neural networks ([NIPS 2017](<https://arxiv.org/pdf/1710.02224.pdf>))
 * Others
   
   - [x] Cardiologist-Level Arrhythmia Detection with Convolutional Neural Networks ([arxiv](https://arxiv.org/pdf/1707.01836.pdf))

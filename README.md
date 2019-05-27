@@ -15,10 +15,9 @@
   
   * [x] Modeling Long- and Short-Term Temporal Patterns with Deep Neural Networks ([SIGIR 2018](https://arxiv.org/pdf/1703.07015.pdf))
   - [x] Deep Multi-View Spatial-Temporal Network for Taxi Demand Prediction ([AAAI 2018](https://arxiv.org/pdf/1802.08714.pdf))
-- [x] Revisiting Spatial-Temporal Similarity: A Deep Learning Framework for Traffic Prediction ([AAAI 2019](<https://arxiv.org/abs/1803.01254>))
+  - [x] Revisiting Spatial-Temporal Similarity: A Deep Learning Framework for Traffic Prediction ([AAAI 2019](<https://arxiv.org/abs/1803.01254>))
   - [x] Hybrid Neural Networks for Learning the Trend in Time Series ([IJCAI 2017](<https://www.ijcai.org/proceedings/2017/0316.pdf>))
   - [ ] Diffusion Convolutional Recurrent Neural Network: Data-Driven Traffic Forecasting ([ICLR 2018](<https://arxiv.org/pdf/1707.01926.pdf>))
-  
 * Finacial & Stocks
   
   - [x] Knowledge-Driven Stock Trend Prediction and Explanation via Temporal Convolutional Network ([WWW 2019](https://www.researchgate.net/publication/331545500_Knowledge-Driven_Stock_Trend_Prediction_and_Explanation_via_Temporal_Convolutional_Network))

@@ -1,5 +1,18 @@
 ## Study Plan
 
+## 2019-06
+
+I was busy preparing all kinds of reports and final exam so this page hasn't been updated for a long time. 
+
+Apologizing for that!
+
+### Study
+
+### Reading
+
+- General Methods
+  - [ ] (TCN) An Empirical Evalutaion of Generic Convolutional and Recurrent Netwokrs of Sequence Modeling ([arxiv](https://arxiv.org/pdf/1803.01271.pdf))(re-read)
+
 ## 2019-05
 
 ### Study

@@ -12,7 +12,7 @@ Apologizing for that!
 
 - Time Series Prediction
   
-  - [ ] N-BEATS: Neural basis expansion analysis for interpretable time series forecasting ([arxiv]([https://arxiv.org/pdf/1905.10437.pdf](https://arxiv.org/pdf/1905.10437.pdf) , Bengio)
+  - [ ] N-BEATS: Neural basis expansion analysis for interpretable time series forecasting ([arxiv]([https://arxiv.org/pdf/1905.10437.pdf](https://arxiv.org/pdf/1905.10437.pdf)) , Bengio)
 
 - General Methods
   

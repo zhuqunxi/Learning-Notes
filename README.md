@@ -10,8 +10,20 @@ Apologizing for that!
 
 ### Reading
 
+- Time Series Prediction
+  
+  - [ ] N-BEATS: Neural basis expansion analysis for interpretable time series forecasting ([arxiv]([https://arxiv.org/pdf/1905.10437.pdf](https://arxiv.org/pdf/1905.10437.pdf), Bengio)
+
 - General Methods
+  
   - [ ] (TCN) An Empirical Evalutaion of Generic Convolutional and Recurrent Netwokrs of Sequence Modeling ([arxiv](https://arxiv.org/pdf/1803.01271.pdf))(re-read)
+  - [ ] Non-normal Recurrent Neural Network (nnRNN): learning long time dependencies while improving expressivity with transient dynamics ([arxiv]([https://arxiv.org/pdf/1905.12080.pdf](https://arxiv.org/pdf/1905.12080.pdf), Bengio)
+
+- CNNs for sequence problem
+  
+  - [ ] Language Modeling with Gated Convolutional Networks ([ICML 2017]([https://arxiv.org/pdf/1612.08083.pdf](https://arxiv.org/pdf/1612.08083.pdf))
+  - [ ] Convolutional Sequence to Sequence Learning ([ICML 2017](Convolutional Sequence to Sequence Learning))
+  - [ ] A Convolutional Encoder Model for Neural Machine Translation ([ACL 2017]([https://arxiv.org/pdf/1611.02344.pdf](https://arxiv.org/pdf/1611.02344.pdf))
 
 ## 2019-05
 
@@ -31,6 +43,7 @@ Apologizing for that!
   - [x] Revisiting Spatial-Temporal Similarity: A Deep Learning Framework for Traffic Prediction ([AAAI 2019](<https://arxiv.org/abs/1803.01254>))
   - [x] Hybrid Neural Networks for Learning the Trend in Time Series ([IJCAI 2017](<https://www.ijcai.org/proceedings/2017/0316.pdf>))
   - [ ] Diffusion Convolutional Recurrent Neural Network: Data-Driven Traffic Forecasting ([ICLR 2018](<https://arxiv.org/pdf/1707.01926.pdf>))
+
 * Finacial & Stocks
   
   - [x] Knowledge-Driven Stock Trend Prediction and Explanation via Temporal Convolutional Network ([WWW 2019](https://www.researchgate.net/publication/331545500_Knowledge-Driven_Stock_Trend_Prediction_and_Explanation_via_Temporal_Convolutional_Network))
@@ -44,6 +57,7 @@ Apologizing for that!
   - [x] Quasi-recurrent neural networks ([ICLR 2017](<https://arxiv.org/pdf/1611.01576.pdf>))
   - [ ] Dilated recurrent neural networks ([NIPS 2017](<https://arxiv.org/pdf/1710.02224.pdf>))
   - [ ] LINE: Large-scale Information Network Embedding ([WWW2015](<https://arxiv.org/abs/1503.03578>))
+
 * Others
   
   - [x] Cardiologist-Level Arrhythmia Detection with Convolutional Neural Networks ([arxiv](https://arxiv.org/pdf/1707.01836.pdf))

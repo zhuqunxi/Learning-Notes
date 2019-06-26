@@ -12,12 +12,12 @@ Apologizing for that!
 
 - Time Series Prediction
   
-  - [ ] N-BEATS: Neural basis expansion analysis for interpretable time series forecasting ([arxiv]([https://arxiv.org/pdf/1905.10437.pdf](https://arxiv.org/pdf/1905.10437.pdf)) , Bengio)
+  - [ ] N-BEATS: Neural basis expansion analysis for interpretable time series forecasting ([arxiv](https://arxiv.org/pdf/1905.10437.pdf) , Bengio)
 
 - General Methods
   
   - [ ] (TCN) An Empirical Evalutaion of Generic Convolutional and Recurrent Netwokrs of Sequence Modeling ([arxiv](https://arxiv.org/pdf/1803.01271.pdf))(re-read)
-  - [ ] Non-normal Recurrent Neural Network (nnRNN): learning long time dependencies while improving expressivity with transient dynamics ([arxiv]([https://arxiv.org/pdf/1905.12080.pdf](https://arxiv.org/pdf/1905.12080.pdf) , Bengio)
+  - [ ] Non-normal Recurrent Neural Network (nnRNN): learning long time dependencies while improving expressivity with transient dynamics ([arxiv](https://arxiv.org/pdf/1905.12080.pdf) , Bengio)
 
 - CNNs for sequence problem
   

@@ -21,9 +21,9 @@ Apologizing for that!
 
 - CNNs for sequence problem
   
-  - [ ] Language Modeling with Gated Convolutional Networks ([ICML 2017]([https://arxiv.org/pdf/1612.08083.pdf](https://arxiv.org/pdf/1612.08083.pdf))
-  - [ ] Convolutional Sequence to Sequence Learning ([ICML 2017](Convolutional Sequence to Sequence Learning))
-  - [ ] A Convolutional Encoder Model for Neural Machine Translation ([ACL 2017]([https://arxiv.org/pdf/1611.02344.pdf](https://arxiv.org/pdf/1611.02344.pdf))
+  - [ ] Language Modeling with Gated Convolutional Networks ([ICML 2017](https://arxiv.org/pdf/1612.08083.pdf))
+  - [ ] Convolutional Sequence to Sequence Learning ([ICML 2017](<https://arxiv.org/pdf/1705.03122.pdf>))
+  - [ ] A Convolutional Encoder Model for Neural Machine Translation ([ACL 2017](https://arxiv.org/pdf/1611.02344.pdf))
 
 ## 2019-05
 

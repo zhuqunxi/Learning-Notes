@@ -12,13 +12,17 @@ Apologizing for that!
 
 - Time Series Prediction
   
-  - [ ] N-BEATS: Neural basis expansion analysis for interpretable time series forecasting ([arxiv](https://arxiv.org/pdf/1905.10437.pdf) , Bengio)
-
+  - [x] N-BEATS: Neural basis expansion analysis for interpretable time series forecasting ([arxiv](https://arxiv.org/pdf/1905.10437.pdf) , Bengio)
+  - [ ] Deep State Space Models for Time Series Forecasting ([Neurips 2018](<https://papers.nips.cc/paper/8004-deep-state-space-models-for-time-series-forecasting.pdf>))
+  - [ ] Deep Learning-Based Multivariate Probabilistic Forecasting for Short-Term Scheduling in Power Markets ([IEEE Transaction](<https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8464297>))
+  - [ ] Residual Recurrent Highway Networks for Learning Deep Sequence Prediction Models ([Journal of Grid Computing](<https://link.springer.com/content/pdf/10.1007%2Fs10723-018-9444-4.pdf>))
 - General Methods
   
   - [ ] (TCN) An Empirical Evalutaion of Generic Convolutional and Recurrent Netwokrs of Sequence Modeling ([arxiv](https://arxiv.org/pdf/1803.01271.pdf))(re-read)
   - [ ] Non-normal Recurrent Neural Network (nnRNN): learning long time dependencies while improving expressivity with transient dynamics ([arxiv](https://arxiv.org/pdf/1905.12080.pdf) , Bengio)
-
+- Classical Model
+  - [ ] BERT: Pre-training of Deep Bidirectional Transformers for
+    Language Understanding ([arixv](<https://arxiv.org/pdf/1810.04805.pdf>))
 - CNNs for sequence problem
   
   - [ ] Language Modeling with Gated Convolutional Networks ([ICML 2017](https://arxiv.org/pdf/1612.08083.pdf))

@@ -4,8 +4,6 @@
 
 I was busy preparing all kinds of reports and final exam so this page hasn't been updated for a long time. 
 
-Apologizing for that!
-
 ### Study
 
 ### Reading

@@ -16,6 +16,9 @@ Apologizing for that!
   - [ ] Deep State Space Models for Time Series Forecasting ([Neurips 2018](<https://papers.nips.cc/paper/8004-deep-state-space-models-for-time-series-forecasting.pdf>))
   - [ ] Deep Learning-Based Multivariate Probabilistic Forecasting for Short-Term Scheduling in Power Markets ([IEEE Transaction](<https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8464297>))
   - [ ] Residual Recurrent Highway Networks for Learning Deep Sequence Prediction Models ([Journal of Grid Computing](<https://link.springer.com/content/pdf/10.1007%2Fs10723-018-9444-4.pdf>))
+  - [ ] Probabilistic Forecasting with Temporal Convolutional Neural Network ([arxiv](<https://arxiv.org/pdf/1906.04397.pdf>))
+  - [ ] Time-series Extreme Event Forecasting with Neural Networks at Uber ([ICML 2017 Time Series Workshop](<http://roseyu.com/time-series-workshop/submissions/TSW2017_paper_3.pdf>))
+  - [ ] Temporal Regularized Matrix Factorization for High-dimensional Time Series Prediction ([NIPS 2016](<https://papers.nips.cc/paper/6160-temporal-regularized-matrix-factorization-for-high-dimensional-time-series-prediction.pdf>))
 - General Methods
   
   - [ ] (TCN) An Empirical Evalutaion of Generic Convolutional and Recurrent Netwokrs of Sequence Modeling ([arxiv](https://arxiv.org/pdf/1803.01271.pdf))(re-read)

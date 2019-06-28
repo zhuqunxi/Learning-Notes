@@ -2,7 +2,7 @@
 
 ## 2019-06
 
-I was busy preparing all kinds of reports and final exam so this page hasn't been updated for a long time. 
+I was busy preparing all kinds of reports and final exam so this page hasn't been updated for a long time.  06/21/2019
 
 ### Study
 
@@ -17,10 +17,12 @@ I was busy preparing all kinds of reports and final exam so this page hasn't bee
   - [ ] Probabilistic Forecasting with Temporal Convolutional Neural Network ([arxiv](<https://arxiv.org/pdf/1906.04397.pdf>))
   - [ ] Time-series Extreme Event Forecasting with Neural Networks at Uber ([ICML 2017 Time Series Workshop](<http://roseyu.com/time-series-workshop/submissions/TSW2017_paper_3.pdf>))
   - [ ] Temporal Regularized Matrix Factorization for High-dimensional Time Series Prediction ([NIPS 2016](<https://papers.nips.cc/paper/6160-temporal-regularized-matrix-factorization-for-high-dimensional-time-series-prediction.pdf>))
+  - [ ] A Multi-Horizon Quantile Recurrent Forecaster ([NIPS 2017 Time Series Workshop](<https://arxiv.org/pdf/1711.11053.pdf>))
 - General Methods
   
   - [ ] (TCN) An Empirical Evalutaion of Generic Convolutional and Recurrent Netwokrs of Sequence Modeling ([arxiv](https://arxiv.org/pdf/1803.01271.pdf))(re-read)
   - [ ] Non-normal Recurrent Neural Network (nnRNN): learning long time dependencies while improving expressivity with transient dynamics ([arxiv](https://arxiv.org/pdf/1905.12080.pdf) , Bengio)
+  - [ ] A SIMPLE NEURAL ATTENTIVE META-LEARNER ([ICLR 2018](<https://openreview.net/pdf?id=B1DmUzWAW>))
 - Classical Model
   - [ ] BERT: Pre-training of Deep Bidirectional Transformers for
     Language Understanding ([arixv](<https://arxiv.org/pdf/1810.04805.pdf>))

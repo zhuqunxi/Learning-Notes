@@ -22,7 +22,7 @@ I was busy preparing all kinds of reports and final exam so this page hasn't bee
   
   - [ ] (TCN) An Empirical Evalutaion of Generic Convolutional and Recurrent Netwokrs of Sequence Modeling ([arxiv](https://arxiv.org/pdf/1803.01271.pdf))(re-read)
   - [ ] Non-normal Recurrent Neural Network (nnRNN): learning long time dependencies while improving expressivity with transient dynamics ([arxiv](https://arxiv.org/pdf/1905.12080.pdf) , Bengio)
-  - [ ] A SIMPLE NEURAL ATTENTIVE META-LEARNER ([ICLR 2018](<https://openreview.net/pdf?id=B1DmUzWAW>))
+  - [ ] A SIMPLE NEURAL ATTENTIVE META-LEARNER ([ICLR 2018](<https://openreview.net/pdf?id=B1DmUzWAW>)) (network architecture)
 - Classical Model
   - [ ] BERT: Pre-training of Deep Bidirectional Transformers for
     Language Understanding ([arixv](<https://arxiv.org/pdf/1810.04805.pdf>))

@@ -1,5 +1,13 @@
 ## Study Plan
 
+## 2019-07
+
+### Reading
+
+- General Methods
+  - [ ] Recurrent Highway Networks ([arxiv](https://arxiv.org/pdf/1607.03474.pdf))
+  - [ ] Simple Recurrent Units for Highly Parallelizable Recurrence (SRU) ([arxiv](https://arxiv.org/pdf/1709.02755.pdf))
+
 ## 2019-06
 
 I was busy preparing all kinds of reports and final exam so this page hasn't been updated for a long time.  06/21/2019

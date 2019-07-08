@@ -25,7 +25,7 @@ I was busy preparing all kinds of reports and final exam so this page hasn't bee
   - [ ] Probabilistic Forecasting with Temporal Convolutional Neural Network ([arxiv](<https://arxiv.org/pdf/1906.04397.pdf>))
   - [ ] Time-series Extreme Event Forecasting with Neural Networks at Uber ([ICML 2017 Time Series Workshop](<http://roseyu.com/time-series-workshop/submissions/TSW2017_paper_3.pdf>))
   - [ ] Temporal Regularized Matrix Factorization for High-dimensional Time Series Prediction ([NIPS 2016](<https://papers.nips.cc/paper/6160-temporal-regularized-matrix-factorization-for-high-dimensional-time-series-prediction.pdf>))
-  - [ ] Hierarchical Attention-Based Recurrent Highway Networks
+  - [x] Hierarchical Attention-Based Recurrent Highway Networks
     for Time Series Prediction * ([arxiv](https://arxiv.org/pdf/1806.00685.pdf))
   - [ ] A Multi-Horizon Quantile Recurrent Forecaster ([NIPS 2017 Time Series Workshop](<https://arxiv.org/pdf/1711.11053.pdf>))
 - General Methods

@@ -1,5 +1,11 @@
 ## Study Plan
 
+## 2019-09
+
+- Others
+  - [ ] Hierarchical Attention Networks for Document Classification ([NAACL 2016](https://www.cs.cmu.edu/~./hovy/papers/16HLT-hierarchical-attention-networks.pdf))
+  - [ ] Attention Based Spatial-Temporal Graph Convolutional Networks for Traffic Flow Forecasting ([AAAI 2019]([file:///home/wangzhicheng/Downloads/3881-Article%20Text-6940-1-10-20190702.pdf](file:///home/wangzhicheng/Downloads/3881-Article Text-6940-1-10-20190702.pdf)))
+
 ## 2019-07
 
 ### Reading
